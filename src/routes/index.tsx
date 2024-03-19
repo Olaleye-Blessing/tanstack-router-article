@@ -1,3 +1,5 @@
+console.log('_HOME_');
+
 import { createFileRoute } from '@tanstack/react-router';
 
 function Index() {

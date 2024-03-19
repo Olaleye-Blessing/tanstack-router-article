@@ -1,3 +1,5 @@
+console.log('_ABOUT_');
+
 import { createFileRoute } from '@tanstack/react-router';
 
 function About() {
